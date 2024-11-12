@@ -6,7 +6,7 @@ _Last Updated: November 12, 2024_
 
 ## 1. Acceptance of Terms
 
-By accessing and using [ACME Company](https://acmecompany.com), you agree to comply with these Terms. If you disagree with any part, you may not use our site.
+By accessing and using [ACME Company](https://acmecompany.com), you agree to comply with these Terms. If you disagree with any part, you may not use our site. Got it?
 
 ## 2. Use of Website
 
