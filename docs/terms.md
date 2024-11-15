@@ -2,7 +2,7 @@
 
 _Last Updated: November 12, 2024_
 
->**Welcome to ACME Company.** By using our website, you agree to the following Terms and Conditions. Please read them carefully.
+>**Welcome to ACME Company.** By using our website, you agree to the following Terms and Conditions. Please read them carefully. Very carefully.
 
 ## 1. Acceptance of Terms
 
